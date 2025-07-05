@@ -14,6 +14,7 @@ Tasks simulated include:
 - Writing bash automation scripts
 - Logging helpdesk incidents
 - Implementing basic security protocols
+- 'Malware_sample_analysis.pdf": Fake malware sample report analyzing macro-based payload
 
 ## Tools Used 
 - Linux Ubuntu
