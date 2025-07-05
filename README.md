@@ -1,5 +1,6 @@
-# Secure Support Suite - Linux Edition
+# Secure Support Suite - Linux Edition ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+[![GitHub Repo](https://img.shields.io/badge/-View%20on%20GitHub-blue?logo=github)](https://github.com/cyberdawg2004/Secure-Support-Suite-Linux)
 ## Project Overview
 Secure Support Suite is a Linux-based tech support and cybersecurity project created to demonstrate essentials IT support skills and basic security practices. It includes bash scripts, phishing detection, troubleshooting guides, and helpdesk tickets log-all designed to show hands-on knowledge is a practical enviroment.
 
@@ -43,6 +44,14 @@ Secure-Support-Suite-Linux/
 - Phishing analysis
 - Purpose-driven IT operations in child-focused enviroments
 
+## License 
+This project is licensed under the [MIT License](LICENSE)
+
 ## Author 
-Imad Abdulmalik Baraja - Tech support, cybersecurity
+Imad Abdulmalik Baraja 
+[GitHub](https://github.com/cyberdawg)
+[Email Me](mailto:imadbaraja2004@yahoo.com)
+[LinkedIn](https://www.linkedin.com/in/imad-baraja-27696625b)
+Passionate about cybersecurity and tech support
+
 This mission was built with purpose, protection, sharing awarness, and power
